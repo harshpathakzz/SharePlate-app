@@ -19,12 +19,12 @@ export const AboutSection = () => {
               NO MINIMUM ORDER <span className="hl-rose">QUANTITY</span>
             </h1>
             <h1>
-              Don't worry even if you have only one product to order. We will{" "}
-              <span className="hl-rose">deliver it.</span>
+              Reduce Wasted Food By Feeding{" "}
+              <span className="hl-rose"> Hungry People.</span>
             </h1>
           </div>
           <Link to="/products" className="product-section-info-link">
-            Shop Now<span className="material-icons"> arrow_right_alt </span>
+            Seacrh Food<span className="material-icons"> arrow_right_alt </span>
           </Link>
         </div>
       </div>
@@ -32,15 +32,15 @@ export const AboutSection = () => {
         <div className="product-section-info">
           <div className="product-section-info-heading">
             <h1 className="h1-48">
-              EASY <span className="hl-rose">RETURNS</span>
+              EASY <span className="hl-rose">DELIVERY</span>
             </h1>
             <h1>
-              Received a wrong or damaged product. We have
-              <span className="hl-rose">your back.</span>
+              We will directly deliver food to NGO's on
+              <span className="hl-rose"> Special orders</span>
             </h1>
           </div>
           <Link to="/products" className="product-section-info-link">
-            Shop Now<span className="material-icons"> arrow_right_alt </span>
+            Seacrh Food<span className="material-icons"> arrow_right_alt </span>
           </Link>
         </div>
         <div className="product-section-image">
@@ -62,15 +62,15 @@ export const AboutSection = () => {
         <div className="product-section-info">
           <div className="product-section-info-heading">
             <h1 className="h1-48">
-              EXPRESS DELIVERY <span className="hl-rose">and TRACKING</span>
+              DELIVERY <span className="hl-rose">ASSURENCE</span>
             </h1>
             <h1>
-              Artium ensures fast delivery of orders and best part is{" "}
-              <span className="hl-rose">you can track it.</span>
+              Share Plate assures delivery of fresh{" "}
+              <span className="hl-rose">food only.</span>
             </h1>
           </div>
           <Link to="/products" className="product-section-info-link">
-            Shop Now<span className="material-icons"> arrow_right_alt </span>
+            Seacrh Food<span className="material-icons"> arrow_right_alt </span>
           </Link>
         </div>
       </div>

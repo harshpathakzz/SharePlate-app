@@ -8,22 +8,21 @@ const Hero = () => {
       <div className="hero-info">
         <div className="hero-title">
           <h1 className="h1-60">
-            Stop Wasting Food!<span className="hl-rose"> Just sharePlate</span>
+            Stop Wasting Food!<span className="hl-rose"> Just</span>
           </h1>
           <h1 className="h1-60">
-            Be your own <span className="hl-rose">Artist!</span>
+            Share<span className="hl-rose"> a Plate!</span>
           </h1>
         </div>
         <div className="hero-subtitle">
           <p>
-            Artium is a registered brand of Creativehands, boasts of becoming
-            people's choice by providing the highest quality products at
-            feasible rates for artists.
+            Share Plate is a platform which provide food to needy ones on
+            special orders.
           </p>
         </div>
         <button className="btn btn-link btn-pink">
           <Link className="hero-link" to="/products">
-            Shop Now
+            Search Food
             <span className="material-icons"> chevron_right </span>
           </Link>
         </button>
